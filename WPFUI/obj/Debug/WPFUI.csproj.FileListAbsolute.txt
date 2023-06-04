@@ -1,0 +1,16 @@
+C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\bin\Debug\WPFUI.exe.config
+C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\bin\Debug\WPFUI.exe
+C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\bin\Debug\WPFUI.pdb
+C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\obj\Debug\WPFUI.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\obj\Debug\WPFUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\obj\Debug\MainWindow.g.cs
+C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\obj\Debug\App.g.cs
+C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\obj\Debug\WPFUI_MarkupCompile.cache
+C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\obj\Debug\WPFUI_MarkupCompile.lref
+C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\obj\Debug\MainWindow.baml
+C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\obj\Debug\WPFUI.g.resources
+C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\obj\Debug\WPFUI.Properties.Resources.resources
+C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\obj\Debug\WPFUI.csproj.GenerateResource.cache
+C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\obj\Debug\WPFUI.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\obj\Debug\WPFUI.exe
+C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\obj\Debug\WPFUI.pdb

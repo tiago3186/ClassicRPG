@@ -1,20 +1,20 @@
 ﻿WPFUI
-
+1.0.0.0
 
 winexe
 C#
 .cs
-C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\obj\Debug\net6.0-windows\
+c:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\obj\Debug\net6.0-windows\
 WPFUI
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\App.xaml
+c:\Users\tiago\OneDrive\Documentos\Projetos\CSharpRPG\SOSCSRPG\WPFUI\App.xaml
 11407045341
 
-3-1233169557
-195-1979361316
+8-933242707
+195879973357
 MainWindow.xaml;
 
-False
+True
 
